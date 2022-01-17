@@ -1,0 +1,48 @@
+.districts :hover{
+  fill:green;
+}
+
+body {
+  padding:10px !important;
+  
+}
+
+.districtTable {
+  font-size: 10px !important;
+}
+
+.districtTable tr{
+  line-height: 10px !important;
+}
+.selectedFilter{
+  fill:	#A9A9A9 !important;
+  font-size: 16px;
+}
+/* 
+#contentContainer{
+  margin-top: 60px;
+}
+ */
+
+ .headerSpan{
+   font-size: 13px;
+   font-style: italic !important;
+   color:#A9A9A9;
+ }
+
+
+ .Axis path,
+ .Axis line {
+   stroke: #E0E0E0;
+ }
+ 
+ .Axis text {
+   font-size: 11px;
+   fill: black;
+ }
+ 
+ .Axis-Bottom text {
+   transform: rotate(-70deg);
+   text-anchor: end;
+ }
+
